@@ -3,7 +3,7 @@ nterms=int(input("Enter the number of terms"))
 
 
 #the first two terms
-n1, n2=0, 1
+n1,n2=0,1
 count=0
 
 
@@ -26,7 +26,7 @@ else:
             nth=n1 + n2
 
 
-            #update th evalues
+            #update the values
             n1 = n2
             n2 = nth
             count+=1
