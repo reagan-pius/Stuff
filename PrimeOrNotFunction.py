@@ -1,9 +1,10 @@
 # Taking input from user
 
-number = int(input("Enter any number: "))
+number = int(input("Enter any number that you want to check: ")
+
 
 # prime number is always greater than 1, so it checked here
-# Iterating from 2 to the number entered by the user
+ # Iterating from 2 to the number entered by the user
 
 if number > 1:
     for i in range(2, number):
