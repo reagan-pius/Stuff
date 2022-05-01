@@ -45,6 +45,24 @@ https://trueree.hashnode.dev/python-101-the-ultimate-python-tutorial-for-beginne
 
 #### #Week 2: Introduction To Data Science  
 
+**Fake News Detection Using Python and Machine Learning**  
+View the codes I uploaded: 
+
+Fake_News                     #This Is the Main Code  
+Fake_News_  
+Check out the technical blog on Hashnode
+https://trueree.hashnode.dev/detect-fake-news-using-python-and-machine-learning
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------  
 
 
 
