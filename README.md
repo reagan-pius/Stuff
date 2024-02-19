@@ -1,6 +1,4 @@
 # Python-with-Lux
-I started *going* Python! The Lux Academy Python and Data Science bootcamp.
-
 
 -------------------------------------------------------------------------------  
 
